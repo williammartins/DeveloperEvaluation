@@ -1,0 +1,11 @@
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\DeveloperStore.Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\DeveloperStore.Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\DeveloperStore.Sales.Domain.AssemblyInfo.cs
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\DeveloperStore.Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\bin\Debug\net8.0\DeveloperStore.Sales.Domain.deps.json
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\bin\Debug\net8.0\DeveloperStore.Sales.Domain.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\bin\Debug\net8.0\DeveloperStore.Sales.Domain.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\DeveloperStore.Sales.Domain.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\refint\DeveloperStore.Sales.Domain.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\DeveloperStore.Sales.Domain.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Domain\obj\Debug\net8.0\ref\DeveloperStore.Sales.Domain.dll

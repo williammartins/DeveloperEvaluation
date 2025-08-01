@@ -1,0 +1,17 @@
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.AssemblyInfo.cs
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\bin\Debug\net8.0\DeveloperStore.Sales.Infrastructure.deps.json
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\bin\Debug\net8.0\DeveloperStore.Sales.Infrastructure.runtimeconfig.json
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\bin\Debug\net8.0\DeveloperStore.Sales.Infrastructure.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\bin\Debug\net8.0\DeveloperStore.Sales.Infrastructure.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\bin\Debug\net8.0\DeveloperStore.Sales.Domain.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\bin\Debug\net8.0\DeveloperStore.Sales.Domain.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\Develope.70A0F0E4.Up2Date
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\refint\DeveloperStore.Sales.Infrastructure.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\DeveloperStore.Sales.Infrastructure.genruntimeconfig.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Infrastructure\obj\Debug\net8.0\ref\DeveloperStore.Sales.Infrastructure.dll

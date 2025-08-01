@@ -1,0 +1,15 @@
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.AssemblyInfoInputs.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.AssemblyInfo.cs
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.csproj.CoreCompileInputs.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\bin\Debug\net8.0\DeveloperStore.Sales.Application.deps.json
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\bin\Debug\net8.0\DeveloperStore.Sales.Application.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\bin\Debug\net8.0\DeveloperStore.Sales.Application.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\bin\Debug\net8.0\DeveloperStore.Sales.Domain.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\bin\Debug\net8.0\DeveloperStore.Sales.Domain.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.csproj.AssemblyReference.cache
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\Develope.FFCECD8F.Up2Date
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\refint\DeveloperStore.Sales.Application.dll
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\DeveloperStore.Sales.Application.pdb
+C:\Users\SilvaWEXT\source\repos\DeveloperEvaluation\DeveloperStore.Sales.Application\obj\Debug\net8.0\ref\DeveloperStore.Sales.Application.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeveloperStore.Sales.Application/1.0.0": {
+        "dependencies": {
+          "DeveloperStore.Sales.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DeveloperStore.Sales.Application.dll": {}
+        }
+      },
+      "DeveloperStore.Sales.Domain/1.0.0": {
+        "runtime": {
+          "DeveloperStore.Sales.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeveloperStore.Sales.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeveloperStore.Sales.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
