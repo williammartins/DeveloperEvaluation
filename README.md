@@ -4,14 +4,14 @@ Este projeto implementa uma API RESTful completa (CRUD) para gerenciar registros
 
 ## Sumário
 
-  * [Visão Geral](https://www.google.com/search?q=%23vis%C3%A3o-geral)
-  * [Funcionalidades Implementadas](https://www.google.com/search?q=%23funcionalidades-implementadas)
-  * [Regras de Negócio](https://www.google.com/search?q=%23regras-de-neg%C3%B3cio)
-  * [Pré-requisitos](https://www.google.com/search?q=%23pr%C3%A9-requisitos)
-  * [Estrutura do Projeto](https://www.google.com/search?q=%23estrutura-do-projeto)
-  * [Configuração e Execução](https://www.google.com/search?q=%23configura%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o)
-  * [Endpoints da API](https://www.google.com/search?q=%23endpoints-da-api)
-  * [Testando a API](https://www.google.com/search?q=%23testando-a-api)
+* [Visão Geral](#visão-geral)
+* [Funcionalidades Implementadas](#funcionalidades-implementadas)
+* [Regras de Negócio](#regras-de-negócio)
+* [Pré-requisitos](#pré-requisitos)
+* [Estrutura do Projeto](#estrutura-do-projeto)
+* [Configuração e Execução](#configuração-e-execução)
+* [Endpoints da API](#endpoints-da-api)
+* [Testando a API](#testando-a-api)
 
 -----
 
@@ -156,10 +156,10 @@ A API expõe os seguintes endpoints via `SalesController`:
 
 | Método | Endpoint | Descrição | Corpo da Requisição (Exemplo) | Resposta (Exemplo) |
 | :----- | :------- | :-------- | :------------------------------ | :----------------- |
-| `POST` | `/` | Cria uma nova venda. | Ver [Exemplo de Criação](https://www.google.com/search?q=%23exemplo-de-cria%C3%A7%C3%A3o-de-venda) | `201 Created` + Objeto `SaleResponseDTO` |
+| `POST` | `/` | Cria uma nova venda. | `201 Created` + Objeto `SaleResponseDTO` |
 | `GET`  | `/{id:guid}` | Obtém uma venda por ID. | (Nenhum) | `200 OK` + Objeto `SaleResponseDTO` ou `404 Not Found` |
 | `GET`  | `/` | Obtém todas as vendas. | (Nenhum) | `200 OK` + Array de `SaleResponseDTO` |
-| `PUT`  | `/{id:guid}` | Atualiza uma venda existente (permite modificação de itens). | Ver [Exemplo de Atualização](https://www.google.com/search?q=%23exemplo-de-atualiza%C3%A7%C3%A3o-de-venda) | `200 OK` + Objeto `SaleResponseDTO` ou `400 Bad Request` / `404 Not Found` |
+| `PUT`  | `/{id:guid}` | Atualiza uma venda existente (permite modificação de itens). | `200 OK` + Objeto `SaleResponseDTO` ou `400 Bad Request` / `404 Not Found` |
 | `PATCH`| `/{id:guid}/cancel` | Cancela uma venda. | (Nenhum) | `204 No Content` ou `400 Bad Request` / `404 Not Found` |
 | `PATCH`| `/{saleId:guid}/items/{productId:guid}/cancel` | Cancela um item específico de uma venda. | (Nenhum) | `204 No Content` ou `400 Bad Request` / `404 Not Found` |
 
@@ -225,7 +225,7 @@ A API expõe os seguintes endpoints via `SalesController`:
 
 ## Testando a API
 
-Após executar a aplicação (passo 5 em [Configuração e Execução](https://www.google.com/search?q=%23configura%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o)), você pode testar a API de duas maneiras:
+Após executar a aplicação (passo 5 em [Configuração e Execução](#configuração-e-execução)), você pode testar a API de duas maneiras:
 
 1.  **Swagger UI (Recomendado para Teste Rápido):**
 
